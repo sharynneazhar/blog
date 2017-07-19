@@ -10,7 +10,7 @@ We all can agree that JavaScript can be a huge pain sometimes (ok, maybe all the
 I had the honor of refactoring some legacy code recently for a popular [MOOC][2] company. The task was to determine if a student had graduated from a degree program and if the program was eligible for certain employment opportunities. To do that, I'd have to iterate over a couple different lists: the student's list degree enrollments and the list of eligible degrees.
 
 There are many ways to approach this, but my first instinct was to do:
-```
+```js
 function isEligible(studentList, eligibleList) {
   var isEligible = false;
   for (var i = 0; i < studentList.length; i++) {
@@ -27,7 +27,7 @@ function isEligible(studentList, eligibleList) {
 Wouldn't it be great if we could smash all that into one single line?
 
 The `some()` method does exactly that. Here, I paired the `some()` method and the `indexOf()` method to get:
-```
+```js
 let isEligible = studentList.some(degree => eligibleList.indexOf(degree) !== -1);
 ```
 
