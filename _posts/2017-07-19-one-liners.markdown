@@ -1,5 +1,5 @@
 ---
-title:  "One Liners - Using the some() Method"
+title:  "One Liners - Using Array.prototype.some"
 date:   2017-07-19 09:21
 categories: ['#TIL']
 tags: [web development, 'today i learned', javascript, es6]
@@ -35,7 +35,7 @@ The `indexOf()` method searches the eligibleList array for the specified degree 
 
 In terms of performance, native (vanilla) JS would almost always win. The question boils down to "Do you want to spend time code more than you have to or leverage what's already out there?" For me, I'm willing to sacrifice a little bit of performance to save time and to have cleaner code.
 
-> Edit: The new iterative methods mentioned above was introduced earlier in [ES5 specifications][3].
+*Edit: The new iterative methods mentioned above was introduced earlier in [ES5 specifications][3].*
 
 [1]: https://github.com/lukehoban/es6features
 [2]: https://en.wikipedia.org/wiki/Massive_open_online_course
