@@ -4,7 +4,7 @@ description: 'Software Developer. Web designer.'
 url: 'http://blog.sharynneazhar.com'
 baseurl: '/blog/'
 google_analytics: 'UA-91479922-2'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'blog-sharynne-azhar'
 
 author:
   name: 'Sharynne Azhar'
