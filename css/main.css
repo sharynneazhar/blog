@@ -3,10 +3,9 @@
 
 /* Modifications */
 
-.center-image
-{
-    margin: 0 auto;
-    display: block;
+.center-image {
+  margin: 0 auto;
+  display: block;
 }
 
 pre.highlight,
