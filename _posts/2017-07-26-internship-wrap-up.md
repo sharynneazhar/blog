@@ -1,6 +1,8 @@
 ---
 published: true
 title:  "Internship Wrap-Up"
+categories: 
+  - internship
 tags:
   - cerner
   - internship
