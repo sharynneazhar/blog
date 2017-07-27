@@ -38,7 +38,7 @@ It has been a little over two months now and I have learned so much about softwa
 
 * Cerner Interns 17 Discord. It's a love-hate relationship. 
 
-These past two months have been an awesome experience. Cerner is a giant in the healtcare IT space and has a pretty cool company culture ❄️. My best takeaway? Throw away all expectations. Just be open, trust yourself, and have some fun. You'll be surprised of the rewards. I am beyond thankful and will definitely miss being around the office, but I'm excited to see what the future holds.
+These past two months have been an awesome experience. Cerner is a giant in the healthcare IT space and has a pretty cool company culture ❄️. My best takeaway? Throw away all expectations. Just be open, trust yourself, and have some fun. You'll be surprised of the rewards. I am beyond thankful and will definitely miss being around the office, but I'm excited to see what the future holds.
 
 Who knows, maybe I'll be back next year. Full-time. 😉
 
