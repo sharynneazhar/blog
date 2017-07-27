@@ -1,10 +1,10 @@
 ---
 published: true
+title:  "Internship Wrap-Up"
 tags:
   - cerner
   - internship
 ---
-## Internship Wrap-Up
 
 Oh my goodness. It is officially my last week as a Cerner intern. \**sad face*\*
 
@@ -26,7 +26,7 @@ It has been a little over two months now and I have learned so much about softwa
 
 * Winning third place at the [Cerner Intern Hackfest][2] and having the opportunity to present in front of 50+ interns and other Cerner employees in the [Assembly][3]. It was one heck of a week with lots and lots of code and data mining. It was also one heck of a struggle balancing actual work with Hackfest work. Here's a picture of the team after the presentations:
 
-![](http://i.imgur.com/tCxMHRYm.png?1)
+![](http://i.imgur.com/tCxMHRYm.png?1){: .center-image }
 
 * Learning [how to effectively use an office space to prank your team members][1] at DevCon. It was so amazing to see Cerner supporting good ol' office pranks. It really showed me that Cerner cares about having a positive company culture.
 
