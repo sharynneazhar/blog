@@ -10,7 +10,7 @@ Oh my goodness. It is officially my last week as a Cerner intern. \**sad face*\*
 
 When I began the internship, I had a pretty good idea of what to expect, especially since half of my friends work for Cerner. The internship is going to start off slow with orientation and a few tours. Then, I'll be thrown right into a project and I'll learn how to be big girl developer. Pretty chill.
 
-It has been a little over two months now and I have learned so much about software engineering, the important role Cerner plays in healthcare IT, and what it takes to excel in this industry. Morever, I am glad to say that my internship with Cerner has been more meaningful than my expectations. Here are a few of my favorite takeaways and moments:
+It has been a little over two months now and I have learned so much about software engineering, the important role Cerner plays in healthcare IT, and what it takes to excel in this industry. I am glad to say that my internship with Cerner has been more meaningful than my expectations. Here are a few of my favorite takeaways and moments:
 
 **Favorite Takeaways**: 
 
