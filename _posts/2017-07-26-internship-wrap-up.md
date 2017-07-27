@@ -24,7 +24,7 @@ It has been a little over two months now and I have learned so much about softwa
 
 **Favorite Memories**: 
 
-* Winning third place at the [Cerner Intern Hackfest][2] and having the opportunity to present in front of 50+ interns and other Cerner employees in the [Assembly][3]. It was one heck of a week with lots and lots of code and data mining. It was also one heck of a struggle balancing actual work with Hackfest work. Here's a picture of the team after the presentations:
+* Winning third place at the [Cerner Intern Hackfest][2] and having the opportunity to present in front of 50+ interns and other Cerner employees in the [Assembly][3]. It was one heck of a week with lots and lots of code and data mining. It was also one heck of a struggle balancing actual work with Hackfest work. Here are a couple pictures from the event:
 
 ![My Team](http://i.imgur.com/tCxMHRY.png?1){: .center-image }
 
