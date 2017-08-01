@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Hacking the Google Places Autocomplete API
 tags:
   - google api - autocomplete - react
