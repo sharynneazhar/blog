@@ -2,9 +2,13 @@
 published: true
 title: Hacking the Google Places Autocomplete API
 tags:
-  - google api - autocomplete - react
+  - google api 
+  - autocomplete 
+  - react
 categories:
-  - 'react - api - "#TIL"'
+  - 'react 
+  - api 
+  - "#TIL"'
 ---
 For the past couple of weeks, I've been working on implementing a location search box using [Google Places API][1]. It would be used to apply a location filter on a list of user profiles. To do so, I needed to use the [Autocomplete API][2] which provides a nice type-ahead-search behavior you've seen in many of Google's search boxes. Once I got my API key, it was a really simple setup. *Note: I'm working with React.*
 
