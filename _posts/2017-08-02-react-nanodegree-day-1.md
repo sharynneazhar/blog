@@ -2,9 +2,12 @@
 published: true
 title: 'React ND - Day #1'
 categories:
-  - udacity - react
+  - udacity 
+  - react
 tags:
-  - udacity - react - lessons
+  - udacity 
+  - react 
+  - lessons
 ---
 [Last week][1], I mentioned enrolling in Udacity’s React Nanodegree program. I’m already pretty familiar with React, but I feel like I have a lack of foundation when it comes to the building principles of React. So, I was pretty excited when I found out about Udacity’s new React Nanodegree. Here’s to unlearning bad habits! 🍻
 
