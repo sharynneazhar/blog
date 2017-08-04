@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'React ND - Day #2'
 categories:
   - udacity
