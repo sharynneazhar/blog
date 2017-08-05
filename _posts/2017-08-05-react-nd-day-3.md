@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'React ND - Day #3'
 categories:
   - udacity
@@ -30,4 +30,4 @@ Is it obvious that I'm a visual learner? 😝
 The most commonly used lifecycle event is the `componentDidMount()` method. This method runs immediately after the components is added to the DOM. So, this would be a great place to make AJAX calls, i.e. retrieving data from our backend server. However, be careful calling `setState()` in this method! Setting state will cause the component to re-rendering. This might throw you into a loop!
 
 ### Takeaway
-I use the `componentDidMount()` method a lot! Probably, the majority of time I need to manipulate my component state. Now that I'm aware of all these other lifecycle events and their purpose, I can use them properly in my projects. 
+I use the `componentDidMount()` method a lot! Probably, the majority of time I need to manipulate my component state. Now that I'm aware of all these other lifecycle events and their purpose, I can use them properly in my projects.
