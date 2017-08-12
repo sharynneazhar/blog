@@ -4,10 +4,11 @@ title: React ND - MyReads - Book Tracking App
 categories:
   - udacity
   - react
+  - projects
 tags:
   - udacity
   - react
-  - lessons
+  - projects
 ---
 ## Day #4 
 * Worked from 1:15am - 4am
