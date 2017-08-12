@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: React ND - MyReads - Book Tracking App
 categories:
   - udacity
