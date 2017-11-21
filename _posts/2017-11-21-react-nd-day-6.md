@@ -34,7 +34,7 @@ Redux **actions** are similar to the DOM events like the `click`, `dblclick`, or
 
 Actions are really just JavaScript objects that describe any event that should update an app's state. What distinguishes an action from others is a specific `type` property we must include. For example,
 
-```
+```js
 const EDIT_USER = 'EDIT_USER';
 const editUser = {
   type: EDIT_USER,
@@ -57,7 +57,7 @@ There are a couple of conventions to keep in mind while building action objects:
 
 Now, these plain action objects are not very portable when you need to use it in multiple places. In order to make actions more portable and easier to test, we can wrap these actions in functions we call **action creators**. As they are called, these functions create and return an action. For example,
 
-```
+```js
 const editUser = user => ({
   type: EDIT_USER,
   user
@@ -69,7 +69,7 @@ Note that these actions are not directly modifying the state themselves; instead
 #### Reducers
 A **reducer** sets up the initial state of an app which is then stored in the, well you guessed it, the store. A reducer is a pure function that gets passed two arguments: the current state and and the action that was just dispatched.
 
-```
+```js
 function reducer(state = initialState, action) {
   // ...
 }
@@ -79,7 +79,7 @@ The action is used to determine what *changes* should be made to the state. What
 
 Within the reducer, we create a switch statement (or if/else) to match the `type` property provided by the action. Then, we return the new state.
 
-```
+```js
 function reducer(state = initialState, action) {
   switch(action.type) {
     case 'EDIT_USER':
