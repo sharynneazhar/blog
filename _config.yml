@@ -1,8 +1,8 @@
 # Site settings
 title: 'Sharynne Azhar'
 description: 'Collection of various coding notes, projects, thoughts.'
-url: 'http://blog.sharynneazhar.com'
-baseurl: '/blog/'
+url: 'http://sharynneazhar.com'
+baseurl: '/blog'
 google_analytics: 'UA-91479922-2'
 disqus_shortname: 'blog-sharynne-azhar'
 
