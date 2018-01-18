@@ -1,5 +1,7 @@
 @import url(uno.css);
 @import url(monokai.css);
+@import url(icons.css);
+
 
 /* Modifications */
 
@@ -8,18 +10,15 @@
   display: block;
 }
 
-pre.highlight,
-.highlight pre {
+pre.highlight, .highlight pre {
   padding: 10px;
 }
 
-pre.highlight code,
-.highlight pre code {
+pre.highlight code, .highlight pre code {
   white-space: pre-wrap;
 }
 
-.btn,
-.navigation__item a {
+.btn, .navigation__item a {
   margin: 5px 0;
   white-space: nowrap;
 }
@@ -29,8 +28,7 @@ pre.highlight code,
   padding: 10px;
 }
 
-.categories a,
-.tags a {
+.categories a, .tags a {
   border: 1px solid #e25440;
   border-radius: 20px;
   color: #e25440;
@@ -42,20 +40,79 @@ pre.highlight code,
   white-space: nowrap;
 }
 
+.panel-inverted {
+  color: #333;
+  text-shadow: 0 1px 1px rgba(245, 245, 245, 0.4);
+}
+
+.panel-cover,
+.panel-cover--overlay {
+  background-color: rgba(255, 255, 255, 0.6);
+	background-image: -webkit-linear-gradient(-410deg, rgba(255, 255, 255, 0.6) 20%, rgba(255, 255, 255, 0.9));
+	background-image: linear-gradient(140deg,rgba(255, 255, 255, 0.6) 20%, rgba(255, 255, 255, 0.9));
+}
+
+.panel-main__inner {
+  vertical-align: top;
+  padding: 60px 0 60px 60px;
+}
+
+.panel-inverted {
+  text-align: right;
+}
+
+.panel-main__content * {
+  color: #333;
+  border-color: #333;
+}
+
+.panel-cover__description {
+  margin: 15px 0 0 0;
+  color: #666;
+}
+
+.navigation__item a {
+  border: none;
+  color: #333;
+  opacity: .7;
+  padding-right: 0;
+}
+
+.navigation__item a:hover,
+.navigation__item a i:hover {
+  color: #e25440;
+  border-color: #e25440;
+  opacity: 1;
+}
+
 .post-meta__tags {
   font-size: 12px;
   padding: 0 5px;
 }
 
-.footer__copyright {
-    margin: 0 20px 10px;
-}
-
 .user-image {
-  margin-bottom: 1.2em;
+  margin-bottom: 2em;
   position: relative;
   width: auto;
-  height: 150px;
-  border: 2px solid #fff;
-  border-radius: 8px;
+  height: 325px;
+  border-radius: 4px;
+}
+
+.blog-links {
+  display: block;
+  margin-bottom: 15px;
+  font-size: 1em;
+  color: #333 !important;
+}
+
+.footer {
+  display: block;
+  padding: 2em 0 0 0;
+  border-top: none;
+  font-size: .7em;
+  color: #b3b3b3;
+}
+
+.footer__copyright {
+  margin: 0;
 }
