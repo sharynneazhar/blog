@@ -27,7 +27,7 @@ That was early 2005-2006.
 
 Now, just 13 years later, we have robots like [Sophia](http://www.hansonrobotics.com/robot/sophia/). She is pretty close to being human-like. Sophia is what the robotics community call a "[humanoid](https://en.wikipedia.org/wiki/Humanoid_robot)". She can follow faces, maintain eye contact, recognize people, process speech, and have decent conversations. She can even [dance](https://www.youtube.com/watch?v=lCFQkB-KLsE)!
 
-It won’t be too long until we have fully functional social robots - *embodied agents* that are able to recognize each other and engage in meaningful social interaction - living among us. Can you imagine have a Bernard always by your side? (If you haven't [Westworld](http://www.imdb.com/title/tt0475784/?ref=ttfcfctt), I _highly_ recommend it).
+It won’t be too long until we have fully functional social robots - *embodied agents* that are able to recognize each other and engage in meaningful social interaction - living among us. Can you imagine a Bernard always by your side? (If you seen haven't [Westworld](http://www.imdb.com/title/tt0475784/?ref=ttfcfctt), I _highly_ recommend it).
 
 ![Bernard]({{site.baseurl}}/images/bernard.gif)
 
