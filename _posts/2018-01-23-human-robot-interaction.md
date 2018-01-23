@@ -15,13 +15,13 @@ This semester, I’m taking a course on Human-Robot Interaction (HRI) with [Dr. 
 
 What does that even mean? 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/52gyiCd8sVs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/52gyiCd8sVs" style="margin-bottom:20px;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ...this isn't ideal **but** it’s pretty close. 
 
 The earliest human-robot interaction I remember vividly was with the [iDog](https://en.wikipedia.org/wiki/IDog), a robot dog that reacted to music from my iPod. It would flash different colored combinations of LED lights on its face and would dance to the beat of the music by wiggling its ears and shaking its head. I thought it was THE coolest thing. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8aypnKFh510" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8aypnKFh510" style="margin-bottom:20px;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 That was early 2005-2006. 
 
@@ -37,7 +37,7 @@ As we go through the course, we will learn more about what constitutes a meaning
 
 To get us even more excited about the class, Dr. Williams showed us a clip from the movie [I, Robot](http://www.imdb.com/title/tt0343818/) starring Will Smith. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/05bGPiyM4jg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/05bGPiyM4jg" style="margin-bottom:20px;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Sonny is quite a robot - a sentient humanoid with advanced social intelligence. He was able to learn and respond to his surroundings. He was able to pick up on cues like the photographs shoved in front of him which meant “Hey, look at these”. He was able to express intense emotions like anger, guilt, and fear. Sonny demonstrated sarcasm and even **love**, a concept that still heavily studied by humans. 
 
