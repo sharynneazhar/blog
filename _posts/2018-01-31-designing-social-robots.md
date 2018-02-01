@@ -25,17 +25,17 @@ Sophia is also capable of having a high-level conversation but as we saw in last
 
 There are two primary approaches in designing social robots — functionally designed or biologically designed. Functionally designed robots are restricted to specific operational objectives. Biologically designed robots, on the other hand, aim to imitate living creatures — more specifically, human beings.
 
-### Sawyer
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S4mULTknb2I" style="margin-bottom:20px;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Sawyer
 
 Functionally designed robots are typically designed with limited operations. They are engineered to complete a very specific set of tasks. Functional robots do not usually express any sort of social intelligence, except maybe having a “face” to make them seem friendlier to human.
 
 Sawyer was designed as a functional robot. It is a [**cobot**](https://en.wikipedia.org/wiki/Cobot) (from **collaborative robot**) intended to interact with humans in a shared workspace. [Rethink Robotics](http://www.rethinkrobotics.com/) built Sawyer as a high performance collaborative robot for the industrial automation industry. It is flexible enough maneuver tight spaces and is extremely precise (+/- 0.1 mm). Sawyer can handle metal fabrication, molding operations, packaging, inspection, and other related tasks. Sawyer has a face — a pair of eyes and eyebrows—to make it appear relatable like a coworker sitting in the cubicle across fro you. Albeit, it is certainly not capable of having any social interactions.
 
-### Pepper
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oDeQCIkrLvc" style="margin-bottom:20px;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Pepper
 
 Pepper, on the other hand, was biologically inspired. It is a _humanoid_. Unlike Sawyer, robots like Pepper were designed with social intelligence. In other words, they were designed specifically to serve and interact with humans — to speak and to understand us.
 
