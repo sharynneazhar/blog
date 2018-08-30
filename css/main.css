@@ -130,6 +130,7 @@ pre.highlight code, .highlight pre code {
   display: block;
   width: auto;
   overflow: hidden;
+  margin-bottom: 20px;
 }
 
 .PageNavigation a {
