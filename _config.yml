@@ -3,13 +3,13 @@
 blog_theme: light # dark or light
 name: Sharynne Azhar
 paginate: 8
-url: https://sharynneazhar.com/
+url: https://sharynneazhar.com/blog
 
 
 # Optional settings
 
 about_enabled: true
-baseurl: '/blog'
+baseurl:
 discus_identifier: 'blog-sharynne-azhar'
 ga_analytics: 'UA-91479922-2'
 local_fonts: false
@@ -79,5 +79,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-paginate_path: /blog/posts/page/:num/
+paginate_path: /posts/page/:num/
 permalink: posts/:slug
