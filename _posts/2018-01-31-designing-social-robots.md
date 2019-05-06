@@ -4,7 +4,7 @@ title: "Designing Social Robots"
 tags: [robotics, ai, psychology]
 ---
 
-| This blog is part of a series of work for my Human-Robot Interaction course at the University of Kansas.
+> This blog is part of a series of work for my Human-Robot Interaction course at the University of Kansas.
 
 Last week, I briefly introduced the idea of human-robot interaction and its motivations. I mentioned a few different examples — i.e. Sophia, the iDog, Sonny — of what robot designers termed _socially interactive robots_. This week, let’s discuss more about the challenges in designing social robots.
 

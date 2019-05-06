@@ -4,7 +4,7 @@ title: "Human Robot Interaction"
 tags: [robotics, ai, psychology]
 ---
 
-| This blog is part of a series of work for my Human-Robot Interaction course at the University of Kansas.
+> This blog is part of a series of work for my Human-Robot Interaction course at the University of Kansas.
 
 This semester, I’m taking a course on Human-Robot Interaction (HRI) with [Dr. Andrew Williams](http://engr.ku.edu/andrew_williams). HRI is a relatively young multidisciplinary field that draws from various aspects of cognitive science, robotics, psychology, and more. The ultimate goal, regardless, is to understand how robots can interact with humans in _natural_, _intuitive_, and _meaningful_ ways.
 
